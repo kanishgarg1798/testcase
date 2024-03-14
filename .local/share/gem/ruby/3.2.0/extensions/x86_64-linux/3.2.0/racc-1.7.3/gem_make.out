@@ -1,0 +1,18 @@
+current directory: /home/runner/string-calculator/.local/share/gem/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/nix/store/4mm3lyj1mmqx25diw044hciai541qcic-ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/runner/string-calculator/.local/share/gem/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240314-283-ldo7yh sitelibdir\=./.gem.20240314-283-ldo7yh clean
+
+current directory: /home/runner/string-calculator/.local/share/gem/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240314-283-ldo7yh sitelibdir\=./.gem.20240314-283-ldo7yh
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/runner/string-calculator/.local/share/gem/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240314-283-ldo7yh sitelibdir\=./.gem.20240314-283-ldo7yh install
+install -c -p -m 755 cparse.so ./.gem.20240314-283-ldo7yh/racc
+
+current directory: /home/runner/string-calculator/.local/share/gem/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240314-283-ldo7yh sitelibdir\=./.gem.20240314-283-ldo7yh clean
