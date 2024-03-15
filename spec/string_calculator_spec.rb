@@ -2,6 +2,7 @@ require 'rails_helper'
 require 'string_calculator'
 
   # test case for string calculator
+# step 1 write tests
 RSpec.describe StringCalculator do
   describe '#add' do
     it 'returns 0 for an empty string' do
