@@ -1,6 +1,7 @@
 class StringCalculator
 
   # method for string calculator
+  # step 3 implement code
   def self.add(numbers)
     delimiters = [',', "\n"]
     if numbers.start_with?('//')
